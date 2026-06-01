@@ -87,6 +87,7 @@ Previously, I worked on DeepSeek performance modeling at Huawei, advertising alg
 
 | Year | Paper | Venue | Notes |
 | --- | --- | --- | --- |
+| 2026 | [Using Large Language Models to Integrate Structural and Textual Information for Federated Knowledge Graph Completion](https://scholar.google.com/scholar?q=%22Using+large+language+models+to+integrate+structural+and+textual+information+for+federated+knowledge+graph+completion%22) | Accepted, 2026 | Co-author |
 | 2025 | [AdapFedRec: A framework for enhanced federated recommendations with adaptive client aggregation and sampling](https://doi.org/10.1016/j.knosys.2025.113754) | Knowledge-Based Systems | First author |
 | 2025 | [Contrastive Graph Attention Fusion with Large Language Models for Next-Item Recommendation](https://github.com/csuhjhjhj/CGAF-LLM) | IEEE Transactions on Big Data | First author, accepted |
 | 2022 | [GCNCMI: A Graph Convolutional Neural Network Approach for Predicting circRNA-miRNA Interactions](https://doi.org/10.3389/fgene.2022.959701) | Frontiers in Genetics | First author |
