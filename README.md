@@ -87,7 +87,7 @@ Previously, I worked on DeepSeek performance modeling at Huawei, advertising alg
 | Year | Paper | Venue | Public Code | Notes |
 | --- | --- | --- | --- | --- |
 | 2026 | [Using Large Language Models to Integrate Structural and Textual Information for Federated Knowledge Graph Completion](https://scholar.google.com/scholar?q=%22Using+large+language+models+to+integrate+structural+and+textual+information+for+federated+knowledge+graph+completion%22) | Accepted, 2026 | - | Co-author |
-| 2025 | [AdapFedRec: A framework for enhanced federated recommendations with adaptive client aggregation and sampling](https://doi.org/10.1016/j.knosys.2025.113754) | Knowledge-Based Systems | - | First author |
+| 2025 | [AdapFedRec: A framework for enhanced federated recommendations with adaptive client aggregation and sampling](https://doi.org/10.1016/j.knosys.2025.113754) | Knowledge-Based Systems | [Code](https://github.com/csuhjhjhj/adapfedrec-python) | First author |
 | 2025 | Contrastive Graph Attention Fusion with Large Language Models for Next-Item Recommendation | IEEE Transactions on Big Data | [Code](https://github.com/csuhjhjhj/CGAF-LLM) | First author, accepted |
 | 2022 | [GCNCMI: A Graph Convolutional Neural Network Approach for Predicting circRNA-miRNA Interactions](https://doi.org/10.3389/fgene.2022.959701) | Frontiers in Genetics | [Code](https://github.com/csuhjhjhj/GCNCMI) | First author |
 | 2022 | [Graph Neural Network with Self-Supervised Learning for Noncoding RNA-Drug Resistance Association Prediction](https://doi.org/10.1021/acs.jcim.2c00367) | Journal of Chemical Information and Modeling | [Code](https://github.com/JJZ-code/GSLRDA) | Co-author |
